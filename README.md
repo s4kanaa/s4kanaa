@@ -1,33 +1,49 @@
-## Hey, sou o s4kanaa 👋
+<h1 align="center">Olá, sou o s4kanaa 👋</h1>
 
-> Software Developer · Construo produtos web que fazem sentido para quem os usa.
-
-🔭 Atualmente a construir projetos com **JavaScript / TypeScript** — focado em código limpo e interfaces rápidas.
-
----
-
-### Sobre mim
-
-- ▸ Apaixonado por Frontend moderno
-- ▸ Orientado a resolver problemas reais
-- ▸ Sempre a aprender algo novo
-- ▸ Aberto a colaborações e projetos
+<p align="center">
+  <em>"Ambicioso por natureza, criativo por opção. A transformar problemas complexos em soluções simples."</em>
+</p>
 
 ---
 
-### Stack
+## 🚀 Sobre Mim
+Olá! Sou um entusiasta da tecnologia que vê o código não apenas como texto, mas como uma ferramenta de construção. Estou numa fase de **crescimento acelerado**, onde cada projeto é uma oportunidade para elevar a fasquia e aprender algo novo. 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+O meu foco? **Resolver problemas reais.** Acredito que a tecnologia deve ser prática, elegante e ter um propósito claro.
 
 ---
 
-### Contacto
+## 🛠 O Meu Laboratório (Tech Stack)
+*Não apenas coleciono linguagens, foco-me nas que me permitem construir o que imagino:*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINK)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+* **Linguagem Principal:** [Ex: Python] – *Onde a lógica encontra a velocidade.*
+* **Em Expansão:** [Ex: JavaScript, React] – *Para dar vida às interfaces.*
+* **Ferramentas de Guerra:** [Ex: Git, Docker, VS Code] – *Onde a magia acontece.*
+
+---
+
+## 💡 O Que Estou a Construir Agora
+*Em vez de esperar por projetos perfeitos, estou a criar os meus:*
+
+* **[Nome do Teu Projeto 1]:** Uma solução para [problema que resolve].
+* **[Nome do Teu Projeto 2]:** Uma abordagem criativa para [desafio técnico].
+* **[Em curso]:** Atualmente a explorar [Nova Tecnologia/Conceito] para otimizar os meus fluxos de trabalho.
+
+---
+
+## 📈 Roadmap de Crescimento
+> "O potencial não se mede pelo que sabemos, mas pela velocidade com que aprendemos."
+
+* [ ] Domínio avançado de [Tecnologia X]
+* [ ] Contribuir para um projeto Open Source
+* [ ] Lançar a minha primeira aplicação de ponta a ponta
+
+---
+
+## 📫 Vamos Conectar?
+* **LinkedIn:** [Insere aqui o teu link]
+* **Email:** [O teu email profissional]
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s4kanaa&show_icons=true&theme=radical&hide_border=true" alt="s4kanaa's github stats" />
+</p>
