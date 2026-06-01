@@ -343,9 +343,9 @@ RADIO ────────────────────────�
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-OPEN_CHANNEL-1a6bff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://linkedin.com/in/joaosimoes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-OPEN_CHANNEL-1a6bff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/jo%C3%A3o-sim%C3%B5es-356741409/)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Email-DIRECT_RADIO-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:joaosimoes@email.com)
+[![Gmail](https://img.shields.io/badge/Email-DIRECT_RADIO-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:jmcachulo@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-RACE_DATA-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/s4kanaa)
 
